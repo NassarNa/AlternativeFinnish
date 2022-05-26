@@ -27,8 +27,7 @@ Windows_version = 1 #Run excel datafile on Windows  =1, or MacOS =0 (edited exce
 
 #Load database file(s)
 print('Loading database...')
-#Sources:   #https://kaino.kotus.fi/sanat/nykysuomi/
-            #https://metashare.csc.fi/repository/browse/finnish-verbal-colorative-constructions/a5d4be8c914c11e7ac29005056be118e7a5d0f46297b4d0e851bf10067440eb6/
+#Sources:   #https://kaino.kotus.fi/sanat/nykysuomi/ (database source with over 94000 Words)
         
 # Read Excel file: Finnish_wordlist_edited_v003.xlsx
 if Windows_version ==1: #for Windows 

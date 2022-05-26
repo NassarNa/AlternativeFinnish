@@ -5,9 +5,6 @@ Weighted randomness will be based on actual statistics derived from a real datab
 
 #Sources:   #https://kaino.kotus.fi/sanat/nykysuomi/
             (My current database bible)
-            
-            #https://metashare.csc.fi/repository/browse/finnish-verbal-colorative-constructions/a5d4be8c914c11e7ac29005056be118e7a5d0f46297b4d0e851bf10067440eb6/
-            (Currently not used, but it is a potentially good database)
 
 I edited the database to my needs for my initial analysis using Excel and simple commands (see Finnish_wordlist_edited_v003.xlsx)
 My first statistical results using python script Finnish_Alternative_ver001_002_GitHub.py (see Finnish_Alphabet_FirstResults.xlsx)

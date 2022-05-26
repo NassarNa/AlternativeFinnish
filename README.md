@@ -1,13 +1,13 @@
 # AlternativeFinnish (WIP)
-In an attempt to prove/disprove that Finnish is a random compilation of letters and occasional doubling of certain letters, I will try to randomly generate words and compare them to my Finnish database.
+In an attempt to prove/disprove that Finnish is a random compilation of letters and occasional doubling of certain letters, I will try to randomly generate words and compare them to a Finnish database which I found online.
 
-Weighted randomness will be based on actual statistics derived from a real database. Therefore I needed to do some statistics on the Finnish language regarding the occurence of letters/characters in words. I was lucky to find a generous database of over 94000 words. I am aware that some words are not Finnish, but are used in the Finnish language.
+Weighted randomness will be based on actual statistics derived from the real database. Therefore I needed to do some statistics on the Finnish language regarding the occurence of letters/characters in words. I was lucky to find a generous database of over 94000 words. I am aware that some words are not Finnish, but are used in the Finnish language.
 
 #Sources:   #https://kaino.kotus.fi/sanat/nykysuomi/
             (My current database bible)
 
 I edited the database to my needs for my initial analysis using Excel and simple commands (see Finnish_wordlist_edited_v003.xlsx)
-My first statistical results using python script Finnish_Alternative_ver001_002_GitHub.py (see Finnish_Alphabet_FirstResults.xlsx)
+My first statistical results using python script Finnish_Alternative_ver001_002_GitHub.py (see Finnish_Alphabet_FirstResults.xlsx version 26.05.2022)
 
 More to follow...
 
